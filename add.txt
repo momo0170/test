@@ -2,3 +2,4 @@ add
 edit' in local
 good
 hello
+remote
